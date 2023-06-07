@@ -6,7 +6,7 @@
         Currently learning how to build cool software.<br>
         Let's work on projects together.<br>
     </i><br>
-    <a href="https://linkedin.com/in/elvis mutinda">
+    <a href="https://www.linkedin.com/in/elvis-mutinda/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://codepen.io/elvocool">
