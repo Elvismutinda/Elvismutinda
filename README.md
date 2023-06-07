@@ -51,7 +51,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvocool&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/Elvocool">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvocool&show_icons=true&locale=en&layout=compact&theme=transparent" alt="elvocool" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvocool&show_icons=true&locale=en&layout=compact&theme=transparent" alt="elvocool" />
   </a>
 </p>
 </details>
