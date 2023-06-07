@@ -1,13 +1,63 @@
-<h1 align="center">Hello World, I'm Elvis</h1>
-<h3 align="center">A Student and Developer</h3>
+<h1 align="center">Hello World!></h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/elvocool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elvocool" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elvis mutinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis mutinda" height="30" width="40" /></a>
+<p align="center">
+    <i>
+        I'm Elvis.<br>
+        Currently learning how to build cool software.<br>
+        Let's work on projects together.<br>
+    </i><br>
+    <a href="https://linkedin.com/in/elvis mutinda">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://codepen.io/elvocool">
+        <img src="https://img.shields.io/badge/CodePen-blue?style=flat-square&logo=CodePen" alt="CodePen">
+    </a>
+    <a href="https://leetcode.com/Elvocool/">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Elvocool)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Elvocool)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Elvocool)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Elvocool)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Elvocool)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Elvocool)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Elvocool)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Elvocool)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Elvocool)
+[![MariaDB](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/Elvocool)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvocool&show_icons=true&locale=en&layout=compact" alt="elvocool" /></p>
+### Technologies & Frameworks
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvocool)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Elvocool)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvocool)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Elvocool)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/elvocool)
+[![ChartJS](https://img.shields.io/badge/chartjs-black?style=for-the-badge&logo=chartjs)](https://github.com/Elvocool)
+[![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/Elvocool)
+
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Elvocool)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Elvocool)
+
+<details>
+<p align="center">
+  <a href="https://github.com/Elvocool">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvocool&theme=transparent" />
+  </a>
+  <a href="https://github.com/Elvocool">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvocool&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Elvocool">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvocool&show_icons=true&locale=en&layout=compact&theme=transparent" alt="elvocool" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/Elvocool">
+    <img src="https://komarev.com/ghpvc/?username=Elvocool&color=blue&style=flat)" />
+  </a>
+</p>
