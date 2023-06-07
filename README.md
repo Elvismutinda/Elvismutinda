@@ -17,21 +17,21 @@
     </a>
 </p>
 
-### Languages
+### Languages & Frameworks
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Elvocool)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Elvocool)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Elvocool)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Elvocool)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Elvocool)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvocool)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Elvocool)
+
+### Technologies & Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Elvocool)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Elvocool)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Elvocool)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Elvocool)
 [![MariaDB](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/Elvocool)
-
-### Technologies & Frameworks
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvocool)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Elvocool)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvocool)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Elvocool)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/elvocool)
