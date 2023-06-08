@@ -4,7 +4,7 @@
     <i>
         I'm Elvis.<br>
         Currently learning how to build cool software.<br>
-        Let's work on projects together.<br>
+        Let's work on projects together:<br>
     </i><br>
     <a href="https://www.linkedin.com/in/elvis-mutinda/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
