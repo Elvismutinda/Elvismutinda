@@ -42,7 +42,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Elvocool)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Elvocool)
 
-<Github Details>
+<details>
 <p align="center">
   <a href="https://github.com/Elvocool">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvocool&theme=transparent" />
