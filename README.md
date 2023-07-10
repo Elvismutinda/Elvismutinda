@@ -6,13 +6,13 @@
         Currently learning how to build cool software.<br>
         Let's work on projects together:<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/elvis-mutinda/">
+    <a href="https://www.linkedin.com/in/elvis-mutinda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://codepen.io/elvocool">
+    <a href="https://codepen.io/elvocool" target="_blank">
         <img src="https://img.shields.io/badge/CodePen-blue?style=flat-square&logo=CodePen" alt="CodePen">
     </a>
-    <a href="https://leetcode.com/Elvocool/">
+    <a href="https://leetcode.com/Elvocool/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
