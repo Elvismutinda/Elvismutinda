@@ -25,6 +25,8 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Elvocool)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvocool)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Elvocool)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/Elvocool)
+[![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Elvocool)
 
 ### Technologies & Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Elvocool)
@@ -35,7 +37,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvocool)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Elvocool)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/elvocool)
-[![ChartJS](https://img.shields.io/badge/chartjs-black?style=for-the-badge&logo=chartjs)](https://github.com/Elvocool)
+[![ChartJS](https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chartdotjs)](https://github.com/Elvocool)
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/Elvocool)
 
 ### OS
