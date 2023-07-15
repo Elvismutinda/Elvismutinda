@@ -17,7 +17,7 @@
     </a>
 </p>
 
-### Languages & Frameworks
+### Languages, Frameworks & Libraries
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Elvocool)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Elvocool)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Elvocool)
