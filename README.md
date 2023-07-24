@@ -51,7 +51,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvismutinda&theme=transparent" />
   </a>
   <a href="https://github.com/Elvismutinda">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvocool&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvismutinda&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/Elvismutinda">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvismutinda&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Elvismutinda" />
