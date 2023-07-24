@@ -48,7 +48,7 @@
 <details>
 <p align="center">
   <a href="https://github.com/Elvismutinda">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvocool&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvismutinda&theme=transparent" />
   </a>
   <a href="https://github.com/Elvismutinda">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvocool&hide_border=true&card_width=338&theme=transparent" />
