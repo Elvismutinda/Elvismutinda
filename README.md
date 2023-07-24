@@ -18,49 +18,49 @@
 </p>
 
 ### Languages, Frameworks & Libraries
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Elvocool)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Elvocool)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Elvocool)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Elvocool)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Elvocool)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Elvocool)
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvocool)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Elvocool)
-[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/Elvocool)
-[![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Elvocool)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Elvismutinda)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Elvismutinda)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Elvismutinda)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Elvismutinda)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Elvismutinda)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Elvismutinda)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvismutinda)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Elvismutinda)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/Elvismutinda)
+[![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Elvismutinda)
 
 ### Technologies & Tools
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Elvocool)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Elvocool)
-[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Elvocool)
-[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Elvocool)
-[![MariaDB](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/Elvocool)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvocool)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Elvocool)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Elvismutinda)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Elvismutinda)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Elvismutinda)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Elvismutinda)
+[![MariaDB](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/Elvismutinda)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvismutinda)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Elvismutinda)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/elvocool)
-[![ChartJS](https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chartdotjs)](https://github.com/Elvocool)
-[![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/Elvocool)
+[![ChartJS](https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chartdotjs)](https://github.com/Elvismutinda)
+[![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/Elvismutinda)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Elvocool)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Elvocool)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Elvismutinda)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Elvismutinda)
 
 <details>
 <p align="center">
-  <a href="https://github.com/Elvocool">
+  <a href="https://github.com/Elvismutinda">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elvocool&theme=transparent" />
   </a>
-  <a href="https://github.com/Elvocool">
+  <a href="https://github.com/Elvismutinda">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elvocool&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/Elvocool">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvocool&show_icons=true&locale=en&layout=compact&theme=transparent" alt="elvocool" />
+  <a href="https://github.com/Elvismutinda">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvismutinda&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Elvismutinda" />
   </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/Elvocool">
-    <img src="https://komarev.com/ghpvc/?username=Elvocool&color=blue&style=flat)" />
+  <a href="https://github.com/Elvismutinda">
+    <img src="https://komarev.com/ghpvc/?username=Elvismutinda&color=blue&style=flat)" />
   </a>
 </p>
