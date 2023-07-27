@@ -33,7 +33,6 @@
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Elvismutinda)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Elvismutinda)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Elvismutinda)
-[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Elvismutinda)
 [![MariaDB](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/Elvismutinda)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvismutinda)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Elvismutinda)
