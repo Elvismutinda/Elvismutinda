@@ -32,6 +32,7 @@
 ### Technologies & Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Elvismutinda)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/Elvismutinda)
+[![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://github.com/Elvismutinda)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Elvismutinda)
 [![MariaDB](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/Elvismutinda)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvismutinda)
