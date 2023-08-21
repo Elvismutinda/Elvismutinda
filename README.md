@@ -66,3 +66,9 @@
     <img src="https://komarev.com/ghpvc/?username=Elvismutinda&color=blue&style=flat)" />
   </a>
 </p>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/elvismutinda" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat" />
+  </a>
+</div>
