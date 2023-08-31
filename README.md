@@ -6,10 +6,10 @@
         "The best way to learn is to build shit" - [Theo](https://github.com/t3dotgg) <br>
     </i><br>
     <a href="https://www.linkedin.com/in/elvis-mutinda/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://leetcode.com/Elvocool/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    <a href="https://twitter.com/Elvocool">
+        <img src="https://img.shields.io/twitter/follow/elvocool?label=Twitter&style=social" alt="Twitter">
     </a>
 </p>
 
@@ -19,9 +19,9 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Elvismutinda)
 [![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Elvismutinda)
 [![Zod](https://img.shields.io/badge/zod-black?style=for-the-badge&logo=zod)](https://github.com/Elvismutinda)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvismutinda)
 [![Tanstack](https://img.shields.io/badge/tanstack-black?style=for-the-badge&logo=tanstack/query)](https://github.com/Elvismutinda)
 [![Shadcn](https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcn)](https://github.com/Elvismutinda)
-[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvismutinda)
 
 ### Technologies & Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Elvismutinda)
