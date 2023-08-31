@@ -25,12 +25,12 @@
 
 ### Technologies & Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Elvismutinda)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/elvocool)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Elvismutinda)
 [![Postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/Elvismutinda)
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://github.com/Elvismutinda)
 [![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)](https://github.com/Elvismutinda)
 [![Planetscale](https://img.shields.io/badge/planetscale-black?style=for-the-badge&logo=planetscale)](https://github.com/Elvismutinda)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/elvocool)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/Elvismutinda)
 [![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/Elvismutinda)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvismutinda)
