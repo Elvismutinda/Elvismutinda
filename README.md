@@ -20,6 +20,7 @@
 [![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Elvismutinda)
 [![Zod](https://img.shields.io/badge/zod-black?style=for-the-badge&logo=zod)](https://github.com/Elvismutinda)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvismutinda)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Elvismutinda)
 [![Tanstack](https://img.shields.io/badge/tanstack-black?style=for-the-badge&logo=tanstack/query)](https://github.com/Elvismutinda)
 [![Shadcn](https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcn)](https://github.com/Elvismutinda)
 
