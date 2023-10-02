@@ -3,7 +3,7 @@
 <p align="center">
     <i>
         Currently learning how to build cool software.<br>
-        "The best way to learn is to build shit" - [Theo](https://github.com/t3dotgg) <br>
+        "The best way to learn is to build shit" - Theo(Creator of t3 stack) <br>
     </i><br>
     <a href="https://www.linkedin.com/in/elvis-mutinda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn">
