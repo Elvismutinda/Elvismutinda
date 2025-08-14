@@ -21,9 +21,10 @@
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Elvismutinda)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Elvismutinda)
 [![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Elvismutinda)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvismutinda)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/Elvismutinda)
+[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/Elvismutinda)
 [![Zod](https://img.shields.io/badge/zod-black?style=for-the-badge&logo=zod)](https://github.com/Elvismutinda)
-[![Tanstack](https://img.shields.io/badge/tanstack-black?style=for-the-badge&logo=tanstack/query)](https://github.com/Elvismutinda)
-[![Shadcn](https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcn)](https://github.com/Elvismutinda)
 
 ### Technologies & Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Elvismutinda)
@@ -35,9 +36,6 @@
 [![Planetscale](https://img.shields.io/badge/planetscale-black?style=for-the-badge&logo=planetscale)](https://github.com/Elvismutinda)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/Elvismutinda)
 [![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/Elvismutinda)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Elvismutinda)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Elvismutinda)
-[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/Elvismutinda)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Elvismutinda)
